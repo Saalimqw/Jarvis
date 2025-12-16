@@ -14,3 +14,6 @@ Tool Calling: Opens websites, launches programs
 Real-time Listening: Auto-adjusts to ambient noise
 
 Threaded TTS: Non-blocking speech synthesis
+
+To use it go to : https://console.groq.com/home
+login or sign in with your id then create a api key then add that api key and model in the python code to make it run successfully.
