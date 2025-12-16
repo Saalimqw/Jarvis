@@ -12,7 +12,7 @@ from groq import Groq
 
 GROQ_API_KEY = "your_groq_api_key_here"
 WAKE_WORD = "jarvis"
-MODEL_NAME = "qwen/qwen3-32b"
+MODEL_NAME = "The_model_you_used_while_making_the_api_key_put_that_model_name_here"
 INITIAL_ENERGY_THRESHOLD = 200
 AMBIENT_NOISE_DURATION = 1.0
 
@@ -201,3 +201,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
